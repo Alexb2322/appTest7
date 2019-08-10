@@ -1,0 +1,12 @@
+#This is my first Phyton program
+#Developer: Alex Basante
+a=5
+b=10
+print("::: BASIC CALC :::") 
+
+Print("The add is: ",a+b)
+Print("The subs is: ",a-b)
+Print("The div is: ",a/b)
+Print("The mult is: ",a*b)
+
+
